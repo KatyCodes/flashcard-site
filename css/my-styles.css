@@ -1,0 +1,8 @@
+.bordergrid {
+  border: 2px solid black;
+  min-height: 200px;
+}
+
+p {
+  display: none;
+}
