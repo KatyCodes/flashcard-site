@@ -1,8 +1,22 @@
 .bordergrid {
   border: 2px solid black;
-  min-height: 200px;
+  min-height: 250px;
 }
 
 p {
   display: none;
+}
+
+.col-sm-3 {
+  background-color: aliceblue;
+  text-align: center;
+  padding: 20px;
+}
+
+p {
+  padding: 20px;
+}
+
+.container-fluid {
+  padding: 40px;
 }
