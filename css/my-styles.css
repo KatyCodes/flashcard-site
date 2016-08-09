@@ -1,6 +1,6 @@
 .bordergrid {
   border: 2px solid black;
-  min-height: 250px;
+  min-height: 300px;
 }
 
 p {
@@ -19,4 +19,15 @@ p {
 
 .container-fluid {
   padding: 40px;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  padding: 20px;
+}
+
+#toolarge {
+  font-size: 12px;
+  padding: -200px;
 }
