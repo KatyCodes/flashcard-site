@@ -1,4 +1,4 @@
-# [The Walrus Page](https://github.com/KatyCodes/flashcard-site/tree/gh)
+# [Flash Card Site ](https://katycodes.github.io/flashcard-site/)
 Version 0.0.1: August 9, 2016
 by [Katy Henning](https://katycodes.github.io/portfolio) and Jena SansCartier
 
